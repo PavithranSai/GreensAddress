@@ -9,6 +9,8 @@ public class GreensTech {
 	}
 	private void greensTambaram() {
 		System.out.println("No.456, Thilagar Nagar, Tambaram");
+		System.out.println("No:000, balaji nagar, OMR");
+		System.out.println("No:789, Kumaran Nagra, Velacherry");
 	}
 	private void greensVelacherry() {
 		System.out.println("No:789, Kumaran Nagra, Velacherry");
