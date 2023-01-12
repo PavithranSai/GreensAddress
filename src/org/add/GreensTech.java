@@ -1,5 +1,8 @@
 package org.add;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class GreensTech {
 	private void greensOmr() {
 		System.out.println("No:000, balaji nagar, OMR");
@@ -12,6 +15,8 @@ public class GreensTech {
 	}
 	private void greensVelacherry() {
 		System.out.println("No:789, Kumaran Nagra, Velacherry");
+		System.out.println("Pattukottai");
+		System.out.println("Pallakadu");
 	}
 	public static void main(String[] args) {
 		GreensTech GreensTech = new GreensTech();
@@ -20,4 +25,8 @@ public class GreensTech {
 		GreensTech.greensTambaram();
 		GreensTech.greensVelacherry();
 	}
+	
+	
+	
+	
 }
